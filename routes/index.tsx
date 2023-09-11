@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div class="container mx-auto">
-      <div class="max-w-screen-md mx-auto flex flex-col items-center justify-center py-4 bg-[#db4f47]">
+      <div class="mx-auto flex flex-col items-center justify-center py-4 bg-[#db4f47]">
         <h1 class="text-3xl font-bold	 text-gray-50">Umarov Racing</h1>
       </div>
 
